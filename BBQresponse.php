@@ -1,5 +1,6 @@
 <?php
-
+    //week3
+    
     if(isset($_POST["id"]) ){
 
         $name=$_POST["name"];
