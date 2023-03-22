@@ -1,3 +1,7 @@
+<?php
+//week1
+?>
+
 <html>
 <head></head>
 <body>
